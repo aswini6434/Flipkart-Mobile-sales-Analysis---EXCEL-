@@ -1,7 +1,7 @@
 # Flipkart-Mobile-sales-Analysis---Microsoft Excel 
 This project analyzes Flipkart mobile sales data to understand sales performance, customer trends, and profit distribution across brands and cities. 
 📱 Flipkart Mobile Sales Analysis – Excel Project
-🧠 Project Mind Map
+🧠 Project Mind Map 
 
 A simple, clean mind map to show the entire project flow:
 
