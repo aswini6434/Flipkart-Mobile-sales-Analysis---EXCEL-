@@ -59,7 +59,8 @@ Number of Ratings
 
 🖼️ Dashboard Preview
 
-![Uploading Mobile Sales Dashboard.png…]()
+![Uploading image.png…]()
+
 
 
 📌 Dashboard Highlights
